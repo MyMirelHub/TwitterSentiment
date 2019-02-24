@@ -1,4 +1,4 @@
-# Tutorial: Sentiment nalysis on streaming data using Azure Databricks
+# Tutorial: Sentiment Analysis on streaming data using Azure Databricks
 
 This will be an adaption of the microsoft tutorial with current twitter API constraints. The tutorial can be found at:
 
